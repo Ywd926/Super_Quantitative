@@ -39,12 +39,19 @@ python main.py
 Workflow:
 *********
 ​​1.Import Images​​: Load your dPCR/dELISA images through the File menu
+
 ​​2.Detect Microreactors​​: Automatic segmentation of reaction units
+
 ​​3.Manual Annotation​​: Label subsets of reactors for training/validation
+
 ​​4.Review Results​​: Visualize classification predictions with interactive overlay
+
 ​​5.Export Data​​: Save quantitative results in CSV/Excel format
 
 Requirements
 ---------
 See requirements.txtfor complete dependency list.
+
+Graphical User Interface
+---------
 
