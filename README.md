@@ -1,5 +1,5 @@
-#Digital PCR & Digital ELISA Image Analyzer
-
+Digital PCR & Digital ELISA Image Analyzer
+=========
 A Python-based GUI application for automated analysis of digital PCR (dPCR) and digital ELISA (dELISA) images. This tool streamlines the process of microreactor identification, classification, and data export for quantitative biological assays.
 
 ##Features
