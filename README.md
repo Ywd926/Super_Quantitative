@@ -54,4 +54,4 @@ See requirements.txtfor complete dependency list.
 
 Graphical User Interface
 ---------
-
+https://github.com/Ywd926/Super_Quantitative/raw/main/GUI.png
