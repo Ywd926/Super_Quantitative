@@ -18,7 +18,7 @@ Quick Start
 ---------
 
 Installation
-*********
+
 1. Clone the repository
 ```Bash
 git clone https://github.com/Ywd926/Super_Quantitative.git
@@ -30,14 +30,14 @@ pip install -r requirements.txt
 ```
 
 Usage
-*********
+
 Launch the application:
 ```Bash
 python main.py
 ```
 
 Workflow:
-*********
+
 ​​1.Import Images​​: Load your dPCR/dELISA images through the File menu
 
 ​​2.Detect Microreactors​​: Automatic segmentation of reaction units
