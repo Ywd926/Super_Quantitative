@@ -60,3 +60,4 @@ Graphical User Interface
 Example
 ---------
 ![](https://github.com/Ywd926/Super_Quantitative/raw/main/test.svg)
+
