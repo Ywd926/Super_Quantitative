@@ -19,5 +19,5 @@ Quick Start
 Installation
 *********
 1. Clone the repository
-git clone https://github.com/your-username/dPCR-dELISA-analyzer.git
-cd dPCR-dELISA-analyzer
+`git clone https://github.com/your-username/dPCR-dELISA-analyzer.git`
+`cd dPCR-dELISA-analyzer`
